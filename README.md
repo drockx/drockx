@@ -4,7 +4,7 @@ Ayw mo pa atik kay wajud ko ga buhat, atik2 rani HAHAHA
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/drockx.d.xebec) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dwayerubite8@gmail.com) <a href="https://drubite-web-portfolio.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Web%20Portfolio-8B4513?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-8B4513?style=flat&logo=googledocs&logoColor=white" />
 </a>
 
 # 💻 Tech Stack:
